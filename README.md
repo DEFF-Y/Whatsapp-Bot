@@ -37,7 +37,7 @@ Untuk request atau report bug bisa chat saya disini [Whatsapp](https://wa.me/wa.
 $ pkg update && pkg upgrade
 $ pkg i nodejs && pkg i git && pkg i yarn && pkg i libwebp && pkg i ffmpeg && pkg i imagemagick
 $ git clone https://github.com/ZackMans/DEFFBOTZ-V8
-$ cd DEFFBOTZ-V8
+$ cd RKY
 $ yarn install && node index.js
 # Scan QR
 ```
@@ -113,7 +113,7 @@ pacman -S imagemagick
 git clone https://github.com/ZackMans/ZackBotMans
 
 # ubah posisi direktori kamu
-cd DEFFBOTZ-V8
+cd RKY
 
 # install semua module
 npm install
@@ -138,16 +138,12 @@ npm start
 # Thanks To
 
 -   [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
--   [`Nurutomo`](https://github.com/Nurutomo)
--   [`MhankBarBar`](https://github.com/MhankBarBar)
--   [`DikaArdnt`](https://github.com/DikaArdnt)
--   [`RzkyFdlh`](https://github.com/Rizky878)
--   [`Zawhazein`](https://github.com/zhwzein)
--   [`YogiPw`](https://github.com/yogipw)
--   [`ZackMans`](https://github.com/ZackMans)
+-   [`Nurutomo`](https://github.com/4ksanzz)
+
+
 
 ```Thanks to all who have participated in the development of this script```
 
 Support Me
 Thank For Base Zackmans & Dika Ardnt
--   [`Saweria`](https://saweria.co/ZackMansOfficial)
+-   [`Saweria`](https://saweria.co/4ksanzz)
